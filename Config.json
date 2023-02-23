@@ -1,0 +1,14 @@
+{
+    "kafka-broker": "10.0.19.4:9092",
+    "topic": "spline-topic",
+    "orientDB": "http://digiceljm-prod.orient.us.octopai-corp.local",
+
+    "sqlDBConnectionString": "Data Source=sql.us.octopai-corp.local;Initial Catalog=DigicelJM_Prod;User ID=oum-prod-us;Password=Dv45WDnqD6dV",
+    "OrientCrossName": "DIGICELJM_PROD",
+    "OrientE2E": "DIGICELJM_PROD_E2E",
+    "consumerUrl": "http://34.242.14.60:8080/consumer",
+    "arangoDBUrl": "http://34.242.14.60:8529/_db/spline/_api/cursor",
+    "AdfDatabricksMngFile": "MngTable/etl_job_param_control.csv",
+    "ConnectionID": "200"
+
+}
